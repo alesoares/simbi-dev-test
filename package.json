@@ -1,0 +1,8 @@
+{
+  "name": "simbi-dev-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/alesoares/simbi-dev-test.git",
+  "author": "Alessandro Soares. <alesoares1975@gmail.com>",
+  "license": "MIT"
+}
